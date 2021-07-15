@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#Activating the Yelp API
+
+Must temporarily request access to their demo servers here: https://cors-anywhere.herokuapp.com/corsdemo
+
+Then you must create an account and generate your own API key here: https://www.yelp.ca/developers
